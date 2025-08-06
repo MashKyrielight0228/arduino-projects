@@ -45,6 +45,6 @@ void loop() {
   digitalWrite(kPinLed, HIGH);//ON
   delay(200);
   digitalWrite(kPinLed, LOW);//OFF
-  delay(200);
+  delay(1000);
 
 }
